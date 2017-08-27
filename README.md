@@ -24,6 +24,7 @@ Tour Management software with java and MongoDB as database develooped in netbean
 
 ####################################################
 
-database Folder name TourDatabase
+database Folder name TourDatabase||
 Collections: LoginData,CustomerDetails,BusDetails
       
+#Contact: meetxavierbansode@gmail.com|| +919822736964
