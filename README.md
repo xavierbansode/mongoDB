@@ -24,6 +24,6 @@ Tour Management software with java and MongoDB as database develooped in netbean
 
 ####################################################
 
-# database Folder name TourDatabase
-# Collections: LoginData,CustomerDetails,BusDetails
+database Folder name TourDatabase
+Collections: LoginData,CustomerDetails,BusDetails
       
